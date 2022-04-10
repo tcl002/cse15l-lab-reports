@@ -56,6 +56,10 @@ These are some general commands that are useful in many situations. However, mor
 
 [Link](https://www.comparitech.com/net-admin/powershell-cheat-sheet/)
 
+Here are some examples of using a few of the commands.
+
+![Image](commands.png)
+
 ## Moving Files with scp
 
 scp : allows for copying files between your local computer and your remote CSE 15L account. This command isn't only used for this but in most cases for this course, this is what it will be used for since you may be transfering files between your local computer and the remote server.
@@ -116,7 +120,13 @@ To optimize running commands, you can combine commands in the same line. See the
 ssh cs15lsp22xxx@ieng6.ucsd.edu "ls"
 ```
 
-This command temporary logs you in and runs the "ls" command to see the files inside the remote directory. However, after this happens, you are sent back to your local directory (must be run from outside the remote directory). You can also use the up arrow key to use the last command used or cycle through the last few commands you have entered.
+This command temporary logs you in and runs the "ls" command to see the files inside the remote directory. However, after this happens, you are sent back to your local directory (must be run from outside the remote directory).
+
+See the following image for an example of what the command above does.
+
+![Image](optimize.png)
+
+You can also use the up arrow key to use the last command used or cycle through the last few commands you have entered.
 
 Semicolons can also be used to run multiple commands on the same line. See the following example.
 
