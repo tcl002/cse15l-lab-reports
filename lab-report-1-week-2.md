@@ -30,7 +30,13 @@ Click on the following link and type in your Username and your Student ID to fin
 
 ![Image](account.png)
 
-Open VS Code and simultaneously click "Ctrl + Shift + `" to open a new terminal. Then, type in "ssh cs15lsp22xxx@ieng6.ucsd.edu" (without the quotation marks) where the "xxx" is replaced by your special three characters at the end of your account name.
+Open VS Code and simultaneously click "Ctrl + Shift + `" to open a new terminal. Then, type in the following command where the "xxx" is replaced by your special three characters at the end of your account name.
+
+```
+ssh cs15lsp22xxx@ieng6.ucsd.edu
+```
+
+Here's an example of what the input should look like.
 
 ![Image](login.png)
 
@@ -135,4 +141,4 @@ cp <java-file-1> <java-file-2>; javac <java-file-2>; java <java-file-1>
 
 ```
 
-Experimenting with running multiple commands on the same line is very useful to understand what is going on. Also, making sure the right thing is happening is very important.
+Experimenting with running multiple commands on the same line is very useful to understand what is going on. Also, making sure the correct fuctions occur is very important.
