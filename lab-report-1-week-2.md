@@ -141,4 +141,4 @@ cp <java-file-1> <java-file-2>; javac <java-file-2>; java <java-file-1>
 
 ```
 
-Experimenting with running multiple commands on the same line is very useful to understand what is going on. Also, making sure the right thing is happening is very important.
+Experimenting with running multiple commands on the same line is very useful to understand what is going on. Also, making sure the correct fuctions occur is very important.
