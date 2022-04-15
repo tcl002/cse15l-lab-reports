@@ -30,7 +30,13 @@ Click on the following link and type in your Username and your Student ID to fin
 
 ![Image](account.png)
 
-Open VS Code and simultaneously click "Ctrl + Shift + `" to open a new terminal. Then, type in "ssh cs15lsp22xxx@ieng6.ucsd.edu" (without the quotation marks) where the "xxx" is replaced by your special three characters at the end of your account name.
+Open VS Code and simultaneously click "Ctrl + Shift + `" to open a new terminal. Then, type in the following command where the "xxx" is replaced by your special three characters at the end of your account name.
+
+```
+ssh cs15lsp22xxx@ieng6.ucsd.edu
+```
+
+Here is an example of what the input should look like.
 
 ![Image](login.png)
 
