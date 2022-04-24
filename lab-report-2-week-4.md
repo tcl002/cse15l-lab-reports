@@ -3,8 +3,6 @@
 ### Tyler Lee
 ### A16976522
 
-Write 2-3 sentences describing the relationship between the bug, the symptom, and the failure-inducing input.
-
 ## Test 1
 ### Screenshot of Code Change
 ![Image](test1fix.png)
