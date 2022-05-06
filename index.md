@@ -1,32 +1,16 @@
-*abcdefghijklmnopqrstuvwxyz*
+# CSE15L Lab Reports
 
-**abcdefghijklmnopqrstuvwxyz**
-
-# abcdefghijklmnopqrstuvwxyz
-
-## abcdefghijklmnopqrstuvwxyz
-
-[Link](https://tcl002.github.io/cse15l-lab-reports/tcl002.html)
+## Tyler Lee
+## A16976522
 
 ![Image](https://s26162.pcdn.co/wp-content/uploads/2020/09/Pink_1.jpg)
 
-> abcdefghijklmnopqrstuvwxyz
+### Lab 1 Week 2
+[Lab 1](https://tcl002.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 
-* abcdefghijklmnopqrstuvwxyz
-* abcdefghijklmnopqrstuvwxyz
-* abcdefghijklmnopqrstuvwxyz
 
-1. abcdefghijklmnopqrstuvwxyz
-2. abcdefghijklmnopqrstuvwxyz
-3. abcdefghijklmnopqrstuvwxyz
+### Lab 2 Week 4
+[Lab 2](https://tcl002.github.io/cse15l-lab-reports/lab-report-2-week-4.html)
 
----
-
-`Inline code` with backticks
-
-```
-# code block
-print `3 backticks or`
-print `indent 4 spaces`
-```
-Axolotl yep
+### Lab 3 Week 6
+[Lab 3](https://tcl002.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
