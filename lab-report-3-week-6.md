@@ -8,6 +8,12 @@
 
 I created the config file by creating a new file in VSCode and typing in the required text.
 
+![Image](creatingconfig.png)
+
+Then I saved the config file into my .ssh folder.
+
+![Image](savingconfig.png)
+
 
 ## Setup Github Access from ieng6
 
