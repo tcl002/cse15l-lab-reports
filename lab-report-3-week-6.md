@@ -14,7 +14,16 @@ Then I saved the config file into my .ssh folder.
 
 ![Image](savingconfig.png)
 
+Here is an example of me using the `scp` command as well as the `ssh` command while using the alias shortcut.
+
+![Image](loginandscp.png)
 
 ## Setup Github Access from ieng6
+![Image](sshkey.png)
+
+![Image](privatekey.png)
+
+![Image](githubloginterminal.png)
+
 
 ## Copy whole directories with `scp -r`
