@@ -25,5 +25,9 @@ Here is an example of me using the `scp` command as well as the `ssh` command wh
 
 ![Image](githubloginterminal.png)
 
+![Image](commitandpush.png)
+
+[Link to Commit](https://github.com/tcl002/cse15l-lab-reports/commit/a84e948940be1af2299dfe2963159215378c07c3)
+
 
 ## Copy whole directories with `scp -r`
