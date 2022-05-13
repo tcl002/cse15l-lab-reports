@@ -45,7 +45,7 @@ Here is the output of using the `scp -r markdown-parser ieng6:~` command. Note t
 Here is how I tested the files. I used the `javac` and `java` method for this because I forgot about the `make test` command.
 ![Image](testing.png)
 
-Here is how I combined everything into one line. I used the `make test` command this time. Again, I only screenshotted the beginning and end of the command because there were so many files being copied over. Also, the tests actually don't run correctly when condensing the commands into one line. I am not sure of what the issue is but I tried using both `make test` as well as the `javac` and `java` commands but they both failed.
+Here is how I combined everything into one line. I used the `make test` command this time. Again, I only screenshotted the beginning and end of the command because there were so many files being copied over. The usual `javac` and `java` commands are replaced because the server is running on an older version of java.
 ![Image](scpandtest1.png)
 
 ![Image](scpandtest2.png)
