@@ -14,3 +14,6 @@
 
 ## Lab 3 Week 6
 [Lab 3](https://tcl002.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
+
+## Lab 4 Week 8
+[Lab 4](https://tcl002.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
