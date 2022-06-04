@@ -4,7 +4,7 @@
 ### A16976522
 
 ## Finding Tests
-In order to find the different tests, I copied the `test-file` folder into my personal `markdown-parser` as well as the `script.sh` file and ran `time bash script.sh`. Then, I manually compared the two outputs and selected two different tests that had different outputs. I could have used `vimdiff` but I decided not to because I didn't want to create a separate text file to start the output of the bash command.
+In order to find the different tests, I copied the `test-file` folder into my personal `markdown-parser` as well as the `script.sh` file and ran `time bash script.sh`. Then, I manually compared the two outputs and selected two different tests that had different outputs. I could have used `vimdiff` but I decided not to because I didn't want to create a separate text file to store the output of the bash command.
 
 Note: I moved copies of the two test files in question to my own personal repository because these specific files were truncated in the other repositories.
 
